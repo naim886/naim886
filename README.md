@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Welcome to my profile (MD. Naimul Hasan). I am a FullStack Web Application Developer experts at PHP, Laravel, JavaScript, React.js, Vue.js, Next.js, Nuxt.js, Sql. 
+**Welcome to my profile (MD. Naimul Hasan). I am a FullStack Web Application Developer experts at PHP, Laravel, JavaScript, React.js, Vue.js, Next.js, Nuxt.js, TypeScript, Sql. **
 
-** I have working experience in 
+** I have working experience in **
 - Fin-Tech 
 - e-Wallet
 - Payment Gateway development
@@ -13,7 +13,7 @@
 - Service Oriented Application 
 - Social media applicaiton 
 
-** I have worked at 
+** I have worked at **
 
 - Multi-national Company 
 - Freelacing task at Upwork & Fiverr
