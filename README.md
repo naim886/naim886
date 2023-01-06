@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**naim886/naim886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Welcome to my profile (MD. Naimul Hasan). I am a FullStack Web Application Developer experts at PHP, Laravel, JavaScript, React.js, Vue.js, Next.js, Nuxt.js, Sql. 
+
+** I have working experience in 
+- Fin-Tech 
+- e-Wallet
+- Payment Gateway development
+- Payment Gateway Integration 
+- E-commerce 
+- RestAPI
+- Service Oriented Application 
+- Social media applicaiton 
+
+** I have worked at 
+
+- Multi-national Company 
+- Freelacing task at Upwork & Fiverr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Payment Gateway development & e-Wallet
+- 🌱 I’m currently learning Distributed Database Management System
+- 📫 How to reach me: <naim886@gmail.com>
+- ⚡ Fun fact: I am a PUGB Lover 
+
